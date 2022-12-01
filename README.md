@@ -13,7 +13,6 @@
 
 <h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
-<a href="https://codesandbox.io/u/dk.devendra9161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eswarsai19" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/devendrakumar9161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eswarsai19" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/dk.devendra9161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="eswarsai19" height="30" width="40" /></a>
 </p>
