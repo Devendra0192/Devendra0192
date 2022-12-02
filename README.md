@@ -3,11 +3,12 @@
  I'm Devendra Kumar
  <img src='https://media.giphy.com/media/l0Iyk1HsfD3mMkiEE/giphy.gif' width="35"/>
  </h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning *MERN stack web Development*
+- 🌱 I’m currently learning *Full Stack Web Development*
 
 - 💬 Ask me about *HTML,CSS, JavaScript, React*
+- Want to apply what I have learned to build something that'll help people.
 
 - 📫 How to reach me *dk.devendra9161@gmail.com*
 
