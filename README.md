@@ -11,8 +11,9 @@
 - Want to apply what I have learned to build something that'll help people.
 
 - 📫 How to reach me *dk.devendra9161@gmail.com*
+- 📫 Portfolio *https://devendra0192.github.io/*
 
-<h3 align="left"><i>Connect with me:</i></h3>
+<h3 align="left"><i>Connect with me via:</i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/devendrakumar9161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eswarsai19" height="30" width="40" />
 <h3 align="left"><i>Languages and Tools:</i></h3>
