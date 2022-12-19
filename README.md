@@ -3,7 +3,7 @@
  I'm Devendra Kumar
  <img src='https://media.giphy.com/media/l0Iyk1HsfD3mMkiEE/giphy.gif' width="35"/>
  </h1>
-<h3 align="center">Hello! I am Devendra Kumar, a <u>Full Stack Web Developer.</u> Welcome to my GitHub Profile. Hope you have a good time here.</h3>
+<h3 align="center">Hello! I am Devendra Kumar, a Full Stack Web Developer. Welcome to my GitHub Profile. Hope you have a good time here.</h3>
 
 - 🌱 I’m currently learning *Full Stack Web Development*
 
