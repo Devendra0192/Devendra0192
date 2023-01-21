@@ -63,6 +63,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra0192&layout=compact&hide=Shell&border_radius=20&theme=radical" alt="Devendra0192" height="140" />
 </p>
 <br>
-<img width="95%" style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Devendra0192&theme=dark" alt="">
+<img width="95%" height="200" style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Devendra0192&theme=dark" alt="">
 </a>
 </p>
