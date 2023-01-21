@@ -52,6 +52,9 @@
 <!-- <h3 align="center">
 <img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://www.pskitservices.com/wp-content/uploads/2020/10/homepage-banner-animated-2.gif" style="width: 300px; display: inline; opacity: 1;">
 </h3> -->
+<br>
+<br>
+<br>
 <h2><i>GitHub Stats</i></h2>
 
 <p>
