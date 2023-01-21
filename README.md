@@ -6,10 +6,7 @@
 <h3 align="center">Hello! I am Devendra Kumar, a Full Stack Web Developer. Welcome to my GitHub Profile. Hope you have a good time here.</h3>
 
 - 🌱 I’m currently learning *Full Stack Web Development*
-
-- 💬 Ask me about *HTML,CSS, JavaScript, React*
 - Want to apply what I have learned to build something that'll help people.
-
 - 📫 How to reach me *dk.devendra9161@gmail.com*
 - 📫 Portfolio *https://devendra0192.github.io*
 
