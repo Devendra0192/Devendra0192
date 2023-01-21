@@ -26,7 +26,8 @@
     </a>
 </p>
 <br>
- 
+ <img align="right" width="300px" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="animated-poster" />
+
 <h2><i>Tech Stack</i></h2>
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
