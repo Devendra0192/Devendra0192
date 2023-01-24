@@ -63,5 +63,6 @@
 </p>
 <br>
 <img width="95%" height="200" style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Devendra0192&theme=dark" alt="">
+[![Devendra0192 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Devendra0192&theme=dracula)](https://github.com/Devendra0192/github-readme-activity-graph)
 </a>
 </p>
