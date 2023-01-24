@@ -10,6 +10,8 @@
 - 📫 How to reach me *dk.devendra9161@gmail.com*
 - 📫 Portfolio *https://devendra0192.github.io*
 
+<img src="https://github-profile-trophy.vercel.app/?username=Devendra0192&margin-w=15&margin-h=15&column=8" />
+
 <h2><i>Let's Connect</i></h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/devendrakumar9161/">
