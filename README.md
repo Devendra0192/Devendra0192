@@ -69,4 +69,3 @@
 <br>
 <br>
 
-![Devendra0192 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Devendra0192&theme=dracula)
